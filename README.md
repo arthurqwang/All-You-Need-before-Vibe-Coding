@@ -1,3 +1,195 @@
+# All You Need before Vibe Coding
+
+## AI writes the code. You have to know that.
+
+## Programming is an exercise. You know, it's a one-way thing.
+
+
+## Arthur Q. Wang
+
+(AI Assisted Preparation)
+
+
+
+
+2026.5 @Celebration
+
+Open Forum on Big Systems View
+
+
+
+
+
+To someone with dreams in the A.I. age.
+
+The era of individual heroism is back.
+
+Come on, dreamer!
+
+
+
+
+## Author 's Introduction
+Arthur Q. Wang, net name Arthur Tree New Bee, real name Wang Quan, born in 1968, Daqing Oilfield senior programmer, the first software copyright holder in the region, professor-level senior engineer.
+
+In 1987, the code was written, starting with Fortran, and for nearly four decades it was intermittent and recently re-routed.
+
+In 1999, the concept of "digital oil field" was put forward, and it was unremittingly and firmly implemented.
+
+In 2016, he completed the open-source book "A View of Large Systems".
+
+It's still programming, studying, and tossing AI.
+
+## Foreword
+To whom is this book written?
+
+**An old man with dreams**
+
+He saw a brother who was supposed to be older than me. He was supposed to be older than me.
+
+He found a programmer and said:
+
+You help me with a little favor.
+I spent a month developing a highly useful AI batch, which can benefit all of humanity.
+The program has been completed and is in the Dou包.
+But I don't know how to run it. Can you help me.
+
+Note, he used a "little" word, and he thought it was easy.
+
+That programmer was instantly petrified!
+
+Asakusa laughed after looking at it. And then it was over.
+
+**A little brother who was born with no fear of tigers**
+
+A few days later, on Sunday, 10 May 2026, at around 9 a.m., I was lying on my home couch and brushing my cell phone.
+
+Yes, he brushes his phone every day. He thinks it's not bad, except for his eyes.
+
+The key is what you're painting. Many new media are now more convenient, fresh and more systematic than paper books.
+
+OK, Ah-sek got a dream boy, he's using AI for programming.
+
+But he doesn't know the basics of AI and IT, and it's very troubling that the process can't get through.
+
+I had a sudden thought, I have to write a book for this child.
+
+I'll write it to the old man too.
+
+**Friends who want to be friends with AI.
+
+**So, this book is for:**
+
+• Ordinary friends who want to write code with AI but don't know much about the basics of computers.
+
+• Those old program friends who used to write codes with AI but lost in the new era.
+
+• Those who are caught in the middle of a false report will only ask AI's friends repeatedly.
+
+• Friends who want to learn a computer base but do not want to read boring textbooks.
+
+**What's this book about?**
+
+Talk about things you should know before AI programming - what computers are, how programs run, how networks are connected, how data is stored, how errors are reported, how problems are investigated...
+
+If you don't talk about it, it's basic. If the foundation is solid, the AI programming is going to turn around.
+
+The most important thing is to help you build up programming thinking.
+
+**What is the style of the book?**
+
+Simple, humorous, white, northeast, not to be tired.
+
+There's no formula, there's no vocabulary, just like you, but, not very strict, please note.
+
+**What's the use of this book?**
+
+After reading this book, you can have a count in your mind when you write code with AI.
+
+The code that AI gives you can read; the error that AI reports, you can check; the formula that AI gives you can judge whether it's okay.
+
+**How did I write this book?**
+
+The book was written with the help of AI.
+
+After I decided to write a book for the guy, I opened WeChat, said two or three hundred words, described what kind of book I wanted to write, and sent it to AI (QwenPaw + GLM5) - the book started!
+
+The AI immediately outlined an outline.
+
+I have some requirements for the outline.
+
+AI wrote the first draft, about 10 minutes, about 40,000 words, Mark Down.
+
+I got him to transfer it to Word to me.
+
+Two minutes later, I received a Word-format document.
+
+I've been going through this document in about 10 minutes.
+
+I made a number of requests.
+
+AI rewriting.
+
+Ten minutes later, the new edition came out, and now you see this Word document.
+
+The entire interaction between me and AI was carried out via micromail until now, I have computer-based modifications and validations of this Word file.
+
+I read and changed every section on the computer, and I had AI help me polish, listening to the song "Heaven's Code" I let AI generate, and the "Auscultation of the People of the Earth" created by my old classmate Brother Chunyang with AI.
+
+Does this book need to be read?
+He doesn't think so.
+
+Of course, if you want to look closely, no one's stopping you.
+
+The book is an introductory literacy book, not a textbook, not a reference book, and not a fast-tracking secret.
+
+Shizuku would like to remind you that there may be a detailed error in the book. One is that what AI generates is not guaranteed to be all right, and the other is that he is not aware of many new things, and that he is not guaranteed to correct all of AI's errors.
+
+However, the big system talks about holographic thinking, and small local problems do not affect the overall function of the system.
+
+I suggest you go through it first.
+
+**You can either:**
+
+• Read through and have a holistic understanding of the basics of computing
+
+• If you encounter a concept that you don't understand, ask about bean buns
+
+• Understanding principles while writing codes in the context of AI programming practice
+
+• Recommending friends who also want to learn AI programming
+
+**You should not:**
+
+• Expect to become a master of programming after watching
+
+• Use it as a textbook with no emphasis on the test
+
+• Expect to learn specific programming skills, those who have to practice on their own, this is just a prelude
+
+**One more word:**
+
+This book, it's an old programmer's crush.
+
+I didn't write that much, but it was all something I thought was important.
+
+I'm a little white, because I don't think that technology should be understood only by experts.
+
+I write a little northeast, because I'm from the northeast, and it's more natural.
+
+If this book helps you take a little less turns, it'll make you feel better when you write the code with AI, it's worth it.
+
+Come on, let's go.
+
+
+**In detail:**
+
+    All_You_Need_before_Vibe_Coding_English_20260522.html
+
+---
+
+
+
 # AI编程战前指导
 
 ## All You Need before Vibe Coding
@@ -6,7 +198,7 @@
 
 **作者：王权（网名：阿色）**
 
-*【内容以 AI编程战前指导_20260522.html 或 PDF为准】*
+*【内容以 `AI编程战前指导_20260522.html` 为准】*
 
 
 **这本书写给谁？**
