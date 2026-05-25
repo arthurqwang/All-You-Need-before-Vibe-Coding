@@ -1,8 +1,8 @@
 # All You Need before Vibe Coding
 
-## AI writes the code. You have to know that.
+AI writing the code, you should know it somehow.
 
-## Programming is an exercise. You know, it's a one-way thing.
+Programming is a spiritual practice.
 
 
 ## Arthur Q. Wang
@@ -12,7 +12,7 @@
 
 
 
-2026.5 @Celebration
+2026.5 @Daqing, China
 
 Open Forum on Big Systems View
 
@@ -20,7 +20,7 @@ Open Forum on Big Systems View
 
 
 
-To someone with dreams in the A.I. age.
+To someone with dreams in the AI age.
 
 The era of individual heroism is back.
 
@@ -28,88 +28,74 @@ Come on, dreamer!
 
 
 
-
-## Author 's Introduction
-Arthur Q. Wang, net name Arthur Tree New Bee, real name Wang Quan, born in 1968, Daqing Oilfield senior programmer, the first software copyright holder in the region, professor-level senior engineer.
+Author 's Introduction
+Arthur Q. Wang, screen name is  Arthur Tree New Bee, and real name is Wang Quan, born in 1968, Daqing Oilfield senior programmer, the first software copyright holder in the region, professor, senior engineer.
 
 In 1987, the code was written, starting with Fortran, and for nearly four decades it was intermittent and recently re-routed.
 
 In 1999, the concept of "digital oil field" was put forward, and it was unremittingly and firmly implemented.
 
-In 2016, he completed the open-source book "A View of Large Systems".
+In 2016, he completed the open-source book "Big Systems View".
 
 It's still programming, studying, and tossing AI.
 
-## Foreword
+Foreword
 To whom is this book written?
-
-**An old man with dreams**
-
-He saw a brother who was supposed to be older than me. He was supposed to be older than me.
+An old man with dreams.
+I saw a brother who was supposed to be older than me. 
 
 He found a programmer and said:
 
 You help me with a little favor.
 I spent a month developing a highly useful AI batch, which can benefit all of humanity.
-The program has been completed and is in the Dou包.
-But I don't know how to run it. Can you help me.
-
-Note, he used a "little" word, and he thought it was easy.
+The program has been completed and is in the Doubao.
+But I don't know how to run it. Can you help me?
+Note, he used a  word "little", and he thought it was easy.
 
 That programmer was instantly petrified!
 
-Asakusa laughed after looking at it. And then it was over.
+I laughed after looking at it. And then it was over.
 
-**A little brother who was born with no fear of tigers**
+A little brother who was born with no fear of tigers.
+A few days later, on Sunday, 10 May 2026, at around 9 a.m., I was lying on my home couch and fiddling with my phone.
 
-A few days later, on Sunday, 10 May 2026, at around 9 a.m., I was lying on my home couch and brushing my cell phone.
-
-Yes, he brushes his phone every day. He thinks it's not bad, except for his eyes.
-
-The key is what you're painting. Many new media are now more convenient, fresh and more systematic than paper books.
-
-OK, Ah-sek got a dream boy, he's using AI for programming.
+OK, I got a dream boy, he's using AI for programming.
 
 But he doesn't know the basics of AI and IT, and it's very troubling that the process can't get through.
 
-I had a sudden thought, I have to write a book for this child.
+I had a sudden thought, I have to write a book for this boy.
 
 I'll write it to the old man too.
 
-**Friends who want to be friends with AI.
-
-**So, this book is for:**
+Friends who want to be friends with AI.
+So, this book is for:
 
 • Ordinary friends who want to write code with AI but don't know much about the basics of computers.
 
-• Those old program friends who used to write codes with AI but lost in the new era.
+• Those old programmer friends who used to write codes with AI but lost in the new era.
 
 • Those who are caught in the middle of a false report will only ask AI's friends repeatedly.
 
 • Friends who want to learn a computer base but do not want to read boring textbooks.
 
-**What's this book about?**
-
+What's this book about?
 Talk about things you should know before AI programming - what computers are, how programs run, how networks are connected, how data is stored, how errors are reported, how problems are investigated...
 
 If you don't talk about it, it's basic. If the foundation is solid, the AI programming is going to turn around.
 
 The most important thing is to help you build up programming thinking.
 
-**What is the style of the book?**
-
+What is the style of the book?
 Simple, humorous, white, northeast, not to be tired.
 
 There's no formula, there's no vocabulary, just like you, but, not very strict, please note.
 
-**What's the use of this book?**
-
+What's the use of this book?
 After reading this book, you can have a count in your mind when you write code with AI.
 
 The code that AI gives you can read; the error that AI reports, you can check; the formula that AI gives you can judge whether it's okay.
 
-**How did I write this book?**
-
+How did you write this book?
 The book was written with the help of AI.
 
 After I decided to write a book for the guy, I opened WeChat, said two or three hundred words, described what kind of book I wanted to write, and sent it to AI (QwenPaw + GLM5) - the book started!
@@ -149,7 +135,7 @@ However, the big system talks about holographic thinking, and small local proble
 
 I suggest you go through it first.
 
-**You can either:**
+You can either:
 
 • Read through and have a holistic understanding of the basics of computing
 
@@ -159,7 +145,7 @@ I suggest you go through it first.
 
 • Recommending friends who also want to learn AI programming
 
-**You should not:**
+You should not:
 
 • Expect to become a master of programming after watching
 
@@ -167,8 +153,7 @@ I suggest you go through it first.
 
 • Expect to learn specific programming skills, those who have to practice on their own, this is just a prelude
 
-**One more word:**
-
+One more word.
 This book, it's an old programmer's crush.
 
 I didn't write that much, but it was all something I thought was important.
@@ -180,7 +165,6 @@ I write a little northeast, because I'm from the northeast, and it's more natura
 If this book helps you take a little less turns, it'll make you feel better when you write the code with AI, it's worth it.
 
 Come on, let's go.
-
 
 **In detail:**
 
