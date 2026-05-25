@@ -1,8 +1,8 @@
 # All You Need before Vibe Coding
 
-AI writing the code, you should know it somehow.
+## AI writing the code, you should know it somehow.
 
-Programming is a spiritual practice.
+## Programming is a spiritual practice.
 
 
 ## Arthur Q. Wang
@@ -28,7 +28,7 @@ Come on, dreamer!
 
 
 
-Author 's Introduction
+## Author 's Introduction
 Arthur Q. Wang, screen name is  Arthur Tree New Bee, and real name is Wang Quan, born in 1968, Daqing Oilfield senior programmer, the first software copyright holder in the region, professor, senior engineer.
 
 In 1987, the code was written, starting with Fortran, and for nearly four decades it was intermittent and recently re-routed.
@@ -39,9 +39,9 @@ In 2016, he completed the open-source book "Big Systems View".
 
 It's still programming, studying, and tossing AI.
 
-Foreword
+## Foreword
 To whom is this book written?
-An old man with dreams.
+### An old man with dreams.
 I saw a brother who was supposed to be older than me. 
 
 He found a programmer and said:
@@ -56,7 +56,7 @@ That programmer was instantly petrified!
 
 I laughed after looking at it. And then it was over.
 
-A little brother who was born with no fear of tigers.
+### A little brother who was born with no fear of tigers.
 A few days later, on Sunday, 10 May 2026, at around 9 a.m., I was lying on my home couch and fiddling with my phone.
 
 OK, I got a dream boy, he's using AI for programming.
@@ -67,7 +67,7 @@ I had a sudden thought, I have to write a book for this boy.
 
 I'll write it to the old man too.
 
-Friends who want to be friends with AI.
+### Friends who want to be friends with AI.
 So, this book is for:
 
 • Ordinary friends who want to write code with AI but don't know much about the basics of computers.
@@ -78,24 +78,24 @@ So, this book is for:
 
 • Friends who want to learn a computer base but do not want to read boring textbooks.
 
-What's this book about?
+## What's this book about?
 Talk about things you should know before AI programming - what computers are, how programs run, how networks are connected, how data is stored, how errors are reported, how problems are investigated...
 
 If you don't talk about it, it's basic. If the foundation is solid, the AI programming is going to turn around.
 
 The most important thing is to help you build up programming thinking.
 
-What is the style of the book?
+## What is the style of the book?
 Simple, humorous, white, northeast, not to be tired.
 
 There's no formula, there's no vocabulary, just like you, but, not very strict, please note.
 
-What's the use of this book?
+## What's the use of this book?
 After reading this book, you can have a count in your mind when you write code with AI.
 
 The code that AI gives you can read; the error that AI reports, you can check; the formula that AI gives you can judge whether it's okay.
 
-How did you write this book?
+## How did you write this book?
 The book was written with the help of AI.
 
 After I decided to write a book for the guy, I opened WeChat, said two or three hundred words, described what kind of book I wanted to write, and sent it to AI (QwenPaw + GLM5) - the book started!
@@ -122,20 +122,20 @@ The entire interaction between me and AI was carried out via micromail until now
 
 I read and changed every section on the computer, and I had AI help me polish, listening to the song "Heaven's Code" I let AI generate, and the "Auscultation of the People of the Earth" created by my old classmate Brother Chunyang with AI.
 
-Does this book need to be read?
-He doesn't think so.
+## Does this book need to be read?
+I don't think so.
 
 Of course, if you want to look closely, no one's stopping you.
 
 The book is an introductory literacy book, not a textbook, not a reference book, and not a fast-tracking secret.
 
-Shizuku would like to remind you that there may be a detailed error in the book. One is that what AI generates is not guaranteed to be all right, and the other is that he is not aware of many new things, and that he is not guaranteed to correct all of AI's errors.
+I would like to remind you that there may be a detailed error in the book. One is that what AI generates is not guaranteed to be all right, and the other is that he is not aware of many new things, and that he is not guaranteed to correct all of AI's errors.
 
 However, the big system talks about holographic thinking, and small local problems do not affect the overall function of the system.
 
 I suggest you go through it first.
 
-You can either:
+## You can either:
 
 • Read through and have a holistic understanding of the basics of computing
 
@@ -145,7 +145,7 @@ You can either:
 
 • Recommending friends who also want to learn AI programming
 
-You should not:
+## You should not:
 
 • Expect to become a master of programming after watching
 
@@ -153,7 +153,7 @@ You should not:
 
 • Expect to learn specific programming skills, those who have to practice on their own, this is just a prelude
 
-One more word.
+## One more word.
 This book, it's an old programmer's crush.
 
 I didn't write that much, but it was all something I thought was important.
